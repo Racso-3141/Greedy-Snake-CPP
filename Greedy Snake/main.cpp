@@ -174,7 +174,7 @@ void Xend() {
 		Pos(12, 17); cout << "¨‡                                      ¨Š";
 		Pos(13, 17); cout << "¨‡¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨x¨Š\n";
 		SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15);
-		Pos(12, 19); cout << "Goint to leave,";
+		Pos(12, 19); cout << "Going to leave,";
 		break;
 	}
 	case 2: {
